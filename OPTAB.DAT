@@ -1,0 +1,11 @@
+LDA    00
+ADD    12
+SUB    20
+STCH   40
+LDCH   13
+STA    25
+JSUB   19
+RSUB   35
+TIX    17
+JLT    41
+
